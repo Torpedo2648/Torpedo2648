@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Yu Lei (雷宇)
 
-<!--
-**Torpedo2648/Torpedo2648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ph.D. Student at [ICT, Chinese Academy of Sciences (中科院计算所)](https://www.ict.ac.cn/)  
+🔬 Interested in **Generative AI**, especially **Text-to-Image Diffusion**, **Personalization**, and **AI Safety**  
+📍 Currently focused on **controllable & aligned generation** using diffusion models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Selected Projects
+
+- [**PSAlign**](https://github.com/M-E-AGI-Lab/PSAlign) – Personalized safety alignment for diffusion models  
+- [**SAGE Dataset**](https://github.com/M-E-AGI-Lab/PSAlign) – A dataset for user-specific safety preference modeling
+
+---
+
+### 📫 Contact
+
+🌐 [Google Scholar](https://scholar.google.com/citations?user=MbpRPIQAAAAJ) · ✉️ [Email](mailto:leiyu2648@gmail.com)
