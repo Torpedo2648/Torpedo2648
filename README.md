@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yu Lei (雷宇)
 
-🎓 Ph.D. Student at [ICT, Chinese Academy of Sciences (中科院计算所)](https://www.ict.ac.cn/)  
+🎓 Ph.D. Student at [Institute of Computing Technology, Chinese Academy of Sciences (中科院计算所)](https://www.ict.ac.cn/)  
 🔬 Interested in **Generative AI**, especially **Text-to-Image Diffusion**, **Personalization**, and **AI Safety**  
 📍 Currently focused on **controllable & aligned generation** using diffusion models.
 
